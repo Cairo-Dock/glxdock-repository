@@ -1,0 +1,13 @@
+# Liste des thèmes pour l'applet rhythmbox
+# Dernière édition par Mav le 22/04/2009
+
+CD_Box_3D
+#0.13 Nochka85
+Dvd_Player
+#0.22 Nochka85
+Iphone
+#0.13 matttbe
+Ipod
+#0.15 Nochka85
+Super_Jewel
+#0.04 Nochka85

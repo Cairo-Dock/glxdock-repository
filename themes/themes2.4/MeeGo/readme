@@ -1,0 +1,4 @@
+A very clean and uncluttered theme which uses the MeeGo style.
+It has 2 docks:
+ - the Bottom dock contains the launchers and Applications Menu, and hides itself when it overlaps a window.
+ - the Top dock acts as a panel and contains a lot of useful applets.

@@ -1,0 +1,14 @@
+#!CD
+# Liste des thèmes pour l'applet Toons
+
+Manga
+#.1 Fabounet
+
+Rei
+#.1 Fabounet
+
+Rei_head
+#.1 Fabounet
+
+Tango
+#.1 Benoit

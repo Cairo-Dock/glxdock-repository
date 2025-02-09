@@ -1,0 +1,1 @@
+This applet shows maximal temperature of your hard disk drives \n getting values from 'hddtemp' daemon (see: man hddtemp). \n Left-click shows more information about HD drives.

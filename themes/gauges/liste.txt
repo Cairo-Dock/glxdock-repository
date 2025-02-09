@@ -1,0 +1,54 @@
+#!CD
+# Liste des thèmes pour les applets utilisant les jauges
+#Le format est le suivant :
+# nom du theme de jauge, suivi d'une ligne de commentaire contenant : taille en Mo;auteur;note(1à5);sobriété(1à5);version(>0)
+
+#Modif par :
+# Matttbe le 19/08/2009
+# Nochka85 le 19/10/2009 : Ajout des thèmes Vistaish et Hal + modif pour ajout des notes et des tailles en Mo
+
+
+Circle
+#0.02; Benoit2600;1;1;1
+
+Hal
+#0.06; Nochka85;1;1;1
+
+Old-square
+#0.04; Necropotame;1;1;1
+
+Radium
+#0.05; Necropotame;1;1;1
+
+Radium-fuel
+#0.04; Necropotame;1;1;1
+
+Rainbow
+#0.01; Necropotame;1;1;1
+
+Tomato
+#0.08; Necropotame;1;1;1
+
+Turbo-night
+#0.05; Necropotame;1;1;1
+
+Turbo-night-dual
+#0.06; Necropotame;1;1;1
+
+Vistaish_Default
+#0.05; Nochka85-Benoit2600;1;1;1
+
+Vistaish_Fire
+#0.05; Nochka85;1;1;1
+
+Vistaish_Fire_Triple
+#0.06; Nochka85;1;1;1
+
+Vistaish_Neon
+#0.04; Nochka85;1;1;1
+
+Vistaish_Silver
+#0.05; Nochka85;1;1;1
+
+Wifi_Square
+#0.01; Neb-Ulus;1;1;1

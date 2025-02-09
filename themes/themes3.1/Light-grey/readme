@@ -1,0 +1,4 @@
+A complete theme with 2 docks:
+ a bottom dock for your common applications (launchers + taskbar)
+ a top dock with several applets and indicators.
+Both docks are set to auto-hide, but all the indicators will stay visible.

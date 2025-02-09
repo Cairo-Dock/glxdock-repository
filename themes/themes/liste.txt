@@ -1,0 +1,105 @@
+#!CD 2.1.0
+#Themes sur le dépot
+#Le format est le suivant :
+# nom du theme, suivi d'une ligne de commentaire contenant : taille en Mo;auteur;note(1à5);sobriété(1à5);version(>0)
+
+#Modif par :
+# Fabounet le 07/12/2009 : maj de Winter et ajout de Humanity-Dock
+#Les thèmes mis à jour pour la 2.1.0 :
+# Square-dock, Cobalt, DustSand, Diamond, Clear, Chrome-Round, Chrome, Brit, Azur, Alu, Adeskbar, Text-White, Text-Black, Elementary, Famous-Phone, Wood, Winter, Tux'n'Tosh, Rings, MacOSX, Elementary_Dragonfly, Neon, Humanity-Dock
+
+Alu
+#2.6; Choops;3;2;1
+
+Adeskbar
+#.3; Fabounet;2;4;1
+
+Azur
+#0.1; Fabounet;2;2;1
+
+Brit
+#1.6; Benoit2600;4;3;1
+
+Clear
+#.3; Coz;4;2;1
+
+Chrome
+#.4; Coz;4;2;1
+
+Chrome-Round
+#.4; Coz;4;2;1
+
+Cobalt
+#.2; Chilperik;3;3;1
+
+Diamond
+#.3; Coz;3;1;1
+
+Dust_Sand
+#.1; Beleriand;3;4;2
+
+Elementary
+#.1; Andrea Calabrò;2;3;1
+
+#Elementary_Dragonfly
+#.4; Gericom;3;3;3
+
+Famous_Phone
+#1.3 ;Unknown;1;2;1
+
+#Glattering
+#.1; Glattering;1;3
+
+Humanity-Dock
+#.4; MastroPino;3;4;1
+
+I_Cairo
+#.1; Vilraleur;3;2
+
+MacOSX
+#1.5; Lord Northam;4;2;2
+
+Neon
+#.9; parAdOxxx_ZeRo;4;1;1
+
+Rings
+#.4; Coz;2;2;1
+
+Square-dock
+#.7; Taiebot65;3;3;2
+
+Tux_n_Tosh
+#1.3; Nochka85;3;1;1
+
+Tapis_Vert
+#0.2; Vilraleur;2;1
+
+Text-Black
+#0.6; Maththias;3;3;1
+
+Text-White
+#0.6; Maththias;3;3;1
+
+Winter
+#.3; Fabounet;3;1;2
+
+Wood
+#.1; Glattering;3;2;1
+
+### Ces themes sont assez bof je trouve (apparemment ils n'ont pas été mis à jour) ###
+
+#Ubuntu
+#.2; Fabounet;1;1
+
+Verde
+#.1; Chilperik;1;1
+
+# Trop incomplet pour l'instant.
+#Grey
+#1.2 Coz
+#Bryt
+
+#Je trouve ce theme pas terrible (et un peu trop sembable a Elementary_DragonFly)
+#Shiki
+#.4; Gericom;2;2;1
+

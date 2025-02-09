@@ -1,0 +1,17 @@
+#!CD
+# Liste des thèmes pour l'applet Cairo-Penguin
+# Dernière édition par Mav le 21/04/2009
+# Dernière édition par Fabounet le 25/04/2009 : retiré le theme Classic
+# Dernière édition par Rom1 le 08/05/2009
+
+Mario
+#0.02 Benoit
+
+SantaClaus
+#0.06 Tofe
+
+The_Simpsons
+#0.09 Tofe
+
+Wanda
+#0.14 Benoit

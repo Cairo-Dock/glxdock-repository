@@ -1,0 +1,26 @@
+#!CD
+# Liste des thèmes pour l'applet Weather
+# Par Mav le 21/04/2009
+# Dernière édition par Fabounet le 25/04/2009 (themes Neon et Clear vont dans les extras des themes respectifs)
+# Dernière édition par Fabounet le 03/05/2009 : re-upload de Crystal et enlevage de I_Dustbin
+
+Crystal
+#0.02
+
+DroplineNeu
+#0.01
+
+Gion
+#0.01
+
+Human
+#0.01
+
+Metal
+#0.06
+
+NuoveXT-2
+#0.06
+
+Silver
+#0.01

@@ -1,0 +1,194 @@
+#!en
+
+[Desktop Entry]
+#s Launcher's name :
+Name=System Monitor
+#s Command to launch on click :
+#{Exemple : nautilus --no-desktop, gedit, etc. You can even enter a keyboard shortcut, for exemple <Alt>F1, <Ctrl>c,  <Ctrl>v, etc}
+Exec=gnome-system-monitor
+#S Image's name or path :
+Icon=utilities-system-monitor
+#d Name of the container it belongs to:
+#{If you write here a container's name that doesn't exist yet, a new one will be created, with this icon inside.}
+Container=System
+
+#X[Extra parameters]
+frame_extra=
+#f[0;100] Order you want for this launcher among the others:
+Order=3.25
+#b Prevent this launcher from stealing appli from taskbar ?
+#{If you choosed to mix launcher and applis, this option will deactivate this behaviour for this launcher only. It can be useful for instance for a launcher that launches a script in a terminal, but you don't want it to steal the Terminal's icon from the Taskbar.} 
+prevent inhibate=false
+
+#K Class of the program :
+#{The only reason you may want to modify this parameter is if you made this launcher by hands. If you dropped it into the dock from the menu, it is nearly sure that you shouldn't touch it. It defines the class of the program, which is useful to link the appli with its launcher.}
+StartupWMClass=
+
+#b Run in a terminal ?
+#{It will use 'xterm'.}
+Terminal=false
+
+#i-[0;16] Only show in this specific viewport
+#{If '0' the launcher will be displayed on every viewport.}
+ShowOnViewport=0
+
+Nb subicons=0
+
+Renderer=
+
+Base URI=
+Is mounting point=false
+
+Is container=false
+Encoding=UTF-8
+Name[ar]=مراقب النّظام
+Name[az]=Sistem İzləyicisi
+Name[be]=Сыстэмны манітор
+Name[be@latin]=Systemny naziralnik
+Name[bg]=Наблюдение на системата
+Name[bn]=সিস্টেম মনিটর
+Name[bn_IN]=System Monitor
+Name[bs]=Nadzor sistema
+Name[ca]=Monitor del sistema
+Name[cs]=Sledování systému
+Name[cy]=Arsylwr System
+Name[da]=Systemovervågning
+Name[de]=Systemüberwachung
+Name[dz]=རིམ་ལུགས་ལྟ་རྟོག་པ།
+Name[el]=Παρακολούθηση συστήματος
+Name[en_CA]=System Monitor
+Name[en_GB]=System Monitor
+Name[es]=Monitor del sistema
+Name[et]=Süsteemijälgija
+Name[eu]=Sistemako monitorea
+Name[fi]=Järjestelmän valvonta
+Name[fr]=Moniteur système
+Name[ga]=Monatóir Córais
+Name[gl]=Monitor do sistema
+Name[gu]=સિસ્ટમ મોનીટર
+Name[he]=מנטר המערכת
+Name[hi]=तंत्र मॉनीटर
+Name[hr]=Stanje baterija
+Name[hu]=Rendszerfigyelő
+Name[id]=Monitor Sistem
+Name[it]=Monitor di sistema
+Name[ja]=システム・モニタ
+Name[ka]=სისტემის მონიტორი
+Name[kn]=ಗಣಕ ಮೇಲ್ವಿಚಾರಕ
+Name[ko]=시스템 정보
+Name[ku]=Temaşekerê Pergalê
+Name[li]=Prosesbeheer
+Name[lt]=Sistemos monitorius
+Name[lv]=Sistēmas pārraugs
+Name[mg]=Mpanara-maso ny rafitra
+Name[mk]=Надгледувач на системот
+Name[ml]=സിസ്റ്റം മോണിറ്റര്‍
+Name[mn]=Системийн монитор
+Name[mr]=प्रणाली मॉनिटर
+Name[ms]=Monitor Sistem
+Name[nb]=Systemmonitor
+Name[ne]=प्रणाली मोनिटर
+Name[nl]=Processenbeheer
+Name[nn]=Systemovervakar
+Name[or]=ତନ୍ତ୍ର ପ୍ରଦର୍ଶିକା
+Name[pa]=ਸਿਸਟਮ ਮਾਨੀਟਰ
+Name[pl]=Monitor systemu
+Name[pt]=Monitor de Sistema
+Name[pt_BR]=Monitor do Sistema
+Name[ro]=Monitorizare sistem
+Name[ru]=Системный монитор
+Name[si]=පද්ධති නිරීක්‍ෂකය
+Name[sk]=Monitor systému
+Name[sl]=Nadzornik sistema
+Name[sq]=Monitori i sistemit
+Name[sr]=Праћење система
+Name[sr@Latn]=Praćenje sistema
+Name[sv]=Systemövervakare
+Name[ta]=அமைப்புக் கண்காணி
+Name[te]=వ్యవస్థ దర్శిని
+Name[th]=เครื่องมือติดตามทรัพยากรระบบ
+Name[tr]=Sistem Gözlemcisi
+Name[ug]=سېستىمىنى كۈزىتىش
+Name[uk]=Системний монітор
+Name[vi]=Bộ theo dõi hệ thống
+Name[zh_CN]=系统监视器
+Name[zh_HK]=系統監控
+Name[zh_TW]=系統監控
+Comment=View current processes and monitor system state
+Comment[ar]=اعرض العمليات الحالية و راقب حالة النظام
+Comment[az]=Hazırda baş verən gedişatları göstər və sistemin vəziyyətinə nəzarət et
+Comment[be]=Прагледзіць бягучыя працэсы й пракантраляваць сыстэму
+Comment[be@latin]=Prahladaj dziejnyja pracesy i adsočvaj stan systemy
+Comment[bg]=Показване на текущите процеси и следене на системното състояние
+Comment[bn]=চলতি প্রসেসের তালিকা দেখুন আর সিস্টেমের অবস্থার উপর নজর রাখুন
+Comment[bn_IN]=চলমান প্রসেস দেখুন ও সিস্টেমের অবস্থা নিরীক্ষণ করুন
+Comment[bs]=Pregled trenutnih procesa i nadzor stanja sistema
+Comment[ca]=Visualitza els processos actuals i monitoritza l'estat del sistema
+Comment[cs]=Zobrazit aktuální procesy a sledovat stav systému
+Comment[cy]=Gweld prosesau cyfredol ac arsylwi cyflwr y system
+Comment[da]=Vis aktive processer og overvåg systemstatus
+Comment[de]=Momentan laufende Prozesse betrachten und den Systemzustand überwachen
+Comment[dz]=ད་ལྟོའི་ལས་སྦྱོར་དང་ ལྟ་རྟོག་རིམ་ལུགས་ཀྱི་ གནས་ལུགས་སྟོན།
+Comment[el]=Προβολή τρεχουσών διεργασιών και παρακολούθηση κατάστασης συστήματος
+Comment[en_CA]=View current processes and monitor system state
+Comment[en_GB]=View current processes and monitor system state
+Comment[es]=Vea los procesos actuales y monitorizar el estado del sistema
+Comment[et]=Süsteemi oleku ja protsesside jälgimine
+Comment[eu]=Ikusi uneko prozesuak eta monitorizatu sistemako egoera
+Comment[fi]=Katsele aktiivisia prosesseja ja valvo järjestelmän tilaa
+Comment[fr]=Afficher les processus en cours et surveiller l'état du système
+Comment[gl]=Ver os procesos actuais e monitorizar o estado do sistema
+Comment[gu]=વર્તમાન પ્રક્રિયાને જુઓ અને સિસ્ટમની સ્થિતિનું ધ્યાન રાખો
+Comment[he]=מראה את התהליכים ומציג את מצב המערכת
+Comment[hi]=वर्तमान प्रक्रिया दिखाता है और तंत्र अवस्था मॉनीटर करता है
+Comment[hr]=Pregled trenutnih procesa i nadzor stanja sustava
+Comment[hu]=A jelenlegi folyamatok megtekintése és a rendszerállapot figyelése
+Comment[id]=Lihat proses yang ada dan monitor kondisi sistem
+Comment[it]=Visualizza i processi correnti e controlla lo stato del sistema
+Comment[ja]=現在のプロセスを表示してシステムの状態を監視します。
+Comment[ka]=მიმდინარე პროცესებისა და თვალყურის სისტემის ნახვა
+Comment[kn]=ಪ್ರಸಕ್ತ ಪ್ರಕ್ರಿಯೆಗಳು ಹಾಗು ಮೇಲ್ವಿಚಾರಣ ವ್ಯವಸ್ಥೆಯ ಸ್ಥಿತಿಯನ್ನು ನೋಡಿ
+Comment[ko]=현재 프로세스와 시스템 상태를 봅니다
+Comment[li]=Tuin huijig proses en bekiek systeemtoesjtandj
+Comment[lt]=Parodo paleistus procesus ir sistemos būklę
+Comment[lv]=Skatīt pašreizējos procesus un monitorēt sistēmas stāvokli
+Comment[mg]=Hijery ireo asa mandeha sy ny toetry ny rafitr'ilay mpanara-maso amin'izao fotoana izao
+Comment[mk]=Погледни ги моментално активните процеси и состојбата на системот
+Comment[ml]=നിലവിലുളള പ്രക്രിയകള്‍ വീക്ഷിക്കുകയും സിസ്റ്റത്തിന്‍റെ അവസ്ഥ നിരീക്ഷിക്കുകയും ചെയ്യുന്നു
+Comment[mn]=Идэвхитэй процессуудыг харах ба системын төлвийг шалгах
+Comment[mr]=चालू प्रक्रिया पहा आणि प्रणाली स्थिती मॉनिटर करा
+Comment[ms]=Lihat proses semasa dan monitor keadaan sistem
+Comment[nb]=Vis aktive prosesser og overvåk systemets tilstand
+Comment[ne]=हालका प्रक्रिया र मोनिटर प्रणाली स्थिति हेर्नुहोस्
+Comment[nl]=Toon de huidige processen en systeemtoestand
+Comment[nn]=Vis aktive prosessar og overvak systemtilstanden
+Comment[pa]=ਮੌਜੂਦਾ ਪਰੋਸੈੱਸ ਵੇਖੋ ਅਤੇ ਸਿਸਟਮ ਹਾਲਤ ਦੀ ਨਿਗਰਾਨੀ
+Comment[pl]=Wyświetla istniejące procesy i monitoruje stan systemu
+Comment[pt]=Ver processos actuais e monitorizar o estado do sistema
+Comment[pt_BR]=Veja os processos atuais e monitore o estado do sistema
+Comment[ro]=Arată procesele curente şi monitorizează starea sistemului
+Comment[ru]=Программа для просмотра текущих процессов и мониторинга состояния системы
+Comment[si]=දැනට ඇති සැකසුම් දර්ශනය සහ පද්ධති තත්වය නිරීක්‍ෂණය
+Comment[sk]=Zobrazuje aktuálne procesy a monitoruje stav systému
+Comment[sl]=Oglejte si trenutne procese in nadzorujte stanje sistema
+Comment[sq]=Shfaq proçeset aktualë dhe monitoron gjëndjen e sistemit
+Comment[sr]=Преглед текућих процеса и праћење стања система
+Comment[sr@Latn]=Pregled tekućih procesa i praćenje stanja sistema
+Comment[sv]=Visa aktuella processer och övervaka systemtillståndet
+Comment[ta]=தற்போதைய செயல் மற்றும் கணினியின் நிலையை பார்க்கவும்
+Comment[te]=ప్రస్తుత క్రమణములు మరియు దర్శిని వ్యవస్థ స్థితిని చూపుము
+Comment[th]=แสดงโพรเซสปัจจุบันและติดตามสถานะของระบบ
+Comment[tr]=Çalışan süreçleri ve sistem durumunu gösterir
+Comment[uk]=Перегляд поточних процесів та контроль стану системи
+Comment[vi]=Xem các tiến trình hiện thời và theo dõi tình trạng hệ thống
+Comment[zh_CN]=查看当前进程及监视系统状态
+Comment[zh_HK]=顯示目前的程序並監控系統的狀態
+Comment[zh_TW]=顯示目前的程序並監控系統的狀態
+TryExec=gnome-system-monitor
+Type=Application
+StartupNotify=true
+Categories=GNOME;GTK;System;Settings;Monitor;
+X-GNOME-Bugzilla-Bugzilla=GNOME
+X-GNOME-Bugzilla-Product=system-monitor
+X-GNOME-Bugzilla-Component=general
+X-GNOME-Bugzilla-Version=2.22.3

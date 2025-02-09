@@ -1,0 +1,68 @@
+TITLE: Cairo-Dock 3 is now available!
+** Cairo-Dock 3.0: a slick user-friendly desktop interface. **
+ 
+It sits in the center of your desktop, allowing you to monitor and control your favorite apps: music players, chat messengers, twitter, torrents downloaders, RSS feeds, calendar/tasks, weather, mail checkers, etc. It also features a powerful taskbar.
+ 
+It presents you the information and controls in form of docks, desktop widgets and panels, and lets you customize them as much as you may wish, so that your desktop will be definitely unique and fits _your_ needs.
+ 
+Customization is very easy, and a lot of themes are already available.
+** Strong points **
+ 
+Unlike some new "modern" shells, Cairo-Dock comes with the usual features you expect on a desktop :
+
+* A **powerful taskbar** that lets you group and reorder windows in the dock, close and open a new instance in one click, switch between windows of the same application using the mouse scroll, etc.
+>>[url=http://download.tuxfamily.org/glxdock/communication/images/3.0/presentation/cd3.0-01.jpg][img]http://download.tuxfamily.org/glxdock/communication/images/3.0/presentation/cd3.0-01_600.jpg[/img][/url]
+__Terminal windows are groups in a sub-dock.__
+__a click on the main icon triggers the Scale (Compiz/Kwin), a mouse scroll switches between the 2 windows__ <<
+
+* An **Applications Menu**, containing all your programs ordered by categories, that you can add inside the dock with a simple drag and drop 
+>>[url=http://download.tuxfamily.org/glxdock/communication/images/3.0/presentation/cd3.0-02.jpg][img]http://download.tuxfamily.org/glxdock/communication/images/3.0/presentation/cd3.0-02_600.jpg[/img][/url]
+__a classic and yet efficient way to get all your installed apps in 1 click__<<
+
+* A simple calendar which lets you manage events and warns you before the date. 
+>>[url=http://download.tuxfamily.org/glxdock/communication/images/3.0/presentation/cd3.0-03.jpg][img]http://download.tuxfamily.org/glxdock/communication/images/3.0/presentation/cd3.0-03_600.jpg[/img][/url]
+__clicking on the Clock applet brings the calendar; double-clicking on a day lets you enter events for this day__<<
+
+* Switch between users, lock your screen when you go off your PC, hibernate or restart, all these basic actions are in 1 applet. 
+>>[url=http://download.tuxfamily.org/glxdock/communication/images/3.0/presentation/cd3.0-04.jpg][img]http://download.tuxfamily.org/glxdock/communication/images/3.0/presentation/cd3.0-04_600.jpg[/img][/url]
+__clicking on the Logout applet brings a menu with all the actions; it will also warn you if your system needs to be restarted after an update__<<
+
+* A powerful switcher, to switch between desktops, but also between windows; it displays the windows present on your different desktops, lets you rename them to have a better organisation, and provides a quick switch betwen windows to improve your work efficiency. 
+>>[url=CD3.0-05.jpg][img]CD3.0-05_600.jpg[/img][/url]
+__middle-clicking on the switcher brings a menu that lists all your windows, sorted by desktops. But you can also trigger the Expose or the Scale (Compiz/Kwin) from the applet, and you can place these actions on right-click, middle-click or to a shortkey__<<
+
+* A list of all your devices (hard-disks, USB storages), and bookmarked folders (the same as in Nautilus). 
+>>[url=CD3.0-06.jpg][img]CD3.0-06_600.jpg[/img][/url]
+__all the volumes are listed on top, with free space indication, and all the bookmarks are listed at the bottom. You can eject a device by middle-clicking on its icon__<<
+
+* Integration of the Ubuntu indicators: one of the best creation of Ubuntu recently is the indicators, and Cairo-Dock allows you to have them inside your docks.
+>>[url=CD3.0-07.jpg][img]CD3.0-07_600.jpg[/img][/url]
+__the Messaging Menu regroups mails and chat messages, as well as your current status, and warns you when a new message arrives__<<
+>>[url=CD3.0-08.jpg][img]CD3.0-08_600.jpg[/img][/url]
+__the Sound Menu lets you control the sound and the music player; mouse-scrolling on the icon changes the sound volume__<<
+
+* Instant access to recent events, including: recent documents, recently watched videos or listened musics, recently visited web pages, etc 
+>>[url=CD3.0-09.jpg][img]CD3.0-09_600.jpg[/img][/url]
+__The recent events dialogue; you can search for a given word, and choose the application you want to use to open the file. You can also delete the history to protect your privacy__<<
+
+* Various applets are available, from the clipboard history which records text you select/copy to applet that instantly shares online any file you drop on it. 
+>>[url=CD3.0-10.jpg][img]CD3.0-10_600.jpg[/img][/url]
+__the Weather applet displays the current conditions and the forecast in a sub-dock__<<
+
+* The docks are entirely controlable from the keyboard
+>>[url=CD3.0-12.jpg][img]CD3.0-12_600.jpg[/img][/url]
+__press a shortkey to trigger the keyboard navigation, then press the number of the icon you want to select. You can also navigate with the arrows, trigger right/middle clicks, etc. Several applets also offer shortkeys for their main actions (ex.: <Super>+L to lock the screen, <Alt>+F1 to pop up the Applications menu, etc)__ <<
+
+* And many other nice features like smart auto-hide, 3D animations, placement on any side of the screen, clipboard history, stack of files, weather forecast, system monitor, etc
+
+
+** How to install it **
+
+Cairo-Dock 3.0 is available in Ubuntu Precise's repositories. For any other distribution, please see http://www.glx-dock.org/ww_page.php?p=Accueil&lang=en#0-Installation.
+
+* Cairo-dock works with any Window Manager, runs on any hardware (even old netbooks), can use the graphic card to be very smooth or a fallback mode if the drivers don't support it, is very well integrated with the most common desktop environments, and is actively developed. 
+That means you can use Cairo-Dock as a shell with your current configuration, your current apps, your current theme; you don't need to change everything, or even learn a new paradigm. Make the dock works as you want, not the opposite ;-)
+>>[url=CD_3.0.0_actions.jpg][img]CD_3.0.0_actions_600.jpg[/img][/url]
+__Here is 4 differents actions in one screenshot__<<
+If you like it, feel free to contribute (articles, third-party applets (coded in Python, Bash, Vala, Ruby, Mono, etc.), translations, themes and donations are very welcome ! ;-) ).
+ => http://glx-dock.org/ww_page.php?p=How%20to%20help%20us&lang=en

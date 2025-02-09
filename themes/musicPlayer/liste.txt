@@ -1,0 +1,18 @@
+#!CD
+# Liste des thèmes pour l'applet MusicPlayer
+# Copier-coller à partir de Rhythmbox par Fab le 10/08/2009
+
+CD_Box_3D
+#0.13 Nochka85
+
+Dvd_Player
+#0.22 Nochka85
+
+Iphone
+#0.13 matttbe
+
+Ipod
+#0.15 Nochka85
+
+Super_Jewel
+#0.04 Nochka85

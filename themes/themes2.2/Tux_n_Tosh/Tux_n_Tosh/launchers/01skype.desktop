@@ -1,0 +1,34 @@
+#!en
+
+[Desktop Entry]
+#s Launcher's name :
+Name=Skype
+#s Command to launch on click :
+#{Exemple : nautilus --no-desktop, gedit, etc. You can even enter a keyboard shortcut, for exemple <Alt>F1 for the Applications Menu, <Ctrl>c or <Ctrl>v to copy or paste, etc}
+Exec=/home/nochka85/.start_skype2
+#S Image's name or path :
+Icon=skype
+
+#X[Extra parameters]
+frame_extra=
+#f Order you want for this launcher among the others:
+Order=7.5
+#E[Outils Système;Mail;Divertissements;_MainDock_;Open Office;Communication;Shortcuts;Stack;Tux_Avatars;Stacks;Disques]  Name of the container it belongs to:
+Container=Communication
+#b Prevent this launcher from stealing appli from taskbar ?
+#{Use this option for exemple if the launcher launches a script in a terminal but you don't want it to steal normal terminal's icons from the TaskBar, or if you explicitely want to use the original icon of the TaskBar because it provides some info, for exemple Pidgin's icons represent the avatar of the contact.}
+prevent inhibate=false
+
+
+Is container=false
+
+Renderer=
+
+Base URI=
+Is mounting point=false
+Comment=Skype Internet Telephony
+Terminal=0
+Type=Application
+Encoding=UTF-8
+Categories=Network;Application;
+Is URI=false

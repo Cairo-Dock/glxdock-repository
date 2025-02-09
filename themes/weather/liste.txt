@@ -1,0 +1,24 @@
+#!CD
+# Liste des thèmes pour l'applet Weather
+# Dernière édition par Fabounet le 20/04/2009
+
+7degrees
+#3.6
+
+Clear
+#0.9
+
+I_Weather
+#0.1 Vilraleur
+
+Shiny
+#1.4
+
+BlackEye
+#0.2
+
+Crystal
+#0.9
+
+WeatherPod
+#2.6 Dim Modaji

@@ -1,0 +1,59 @@
+#!CD
+# Liste des thèmes pour l'applet Weather/home/fab/CD/ftp/clock/BlackEye/BlackEye
+# Dernière édition par Mav le 21/04/2009
+# Dernière édition par Fabounet le 25/04/2009 : ajout themes Argonaute, Ater, BlackEye
+# Dernière édition par Matttbe le 04/12/2009 : ajout themes TuX_In_ColoR  et TuX_In_ColoR_Mini
+
+AmoraSlim
+#0.02 ChanGFu
+
+Antique
+#0.05 Timo Sakari Mikkolainen
+
+Argonaute
+#0.02 ChanGFu
+
+Ater
+#0.04
+
+BlackEye
+#0.01
+
+BlueSlim
+#0.01 ChanGFu
+
+Elegance
+#0.01 MacSlow
+
+Fdo
+#0.01 Keith Packard
+
+Funky
+#0.01 Mac Slow
+
+Glassy
+#0.02 MacSlow
+
+Ipulse
+#0.01 Darryll “Moppsy” Truchan
+
+Radium
+#0.02 Mac Slow
+
+Silvia
+#0.02 Darryll “Moppsy” Truchan
+
+Simple
+#0.01 Mac Slow
+
+Tango
+#0.01 Jannol
+
+TuX_In_ColoR_Mini
+#0.02 Ours_en_Pluche
+
+TuX_In_ColoR_Mini
+#0.01 Ours_en_Pluche
+
+Zen
+#0.01 MacSlow
